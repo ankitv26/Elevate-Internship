@@ -40,7 +40,6 @@ To demonstrate core OOP principles — **Abstraction, Encapsulation, Inheritance
     ├── pom.xml
     └── README.md
 
-
 ---
 
 ## ✅ Features
@@ -70,18 +69,22 @@ To demonstrate core OOP principles — **Abstraction, Encapsulation, Inheritance
 ```bash
 git clone https://github.com/ankitv26/Elevate-Internship.git
 ```
+
 ## Navigate to the project
+
     ```bash
-    
+
     cd "Task 3/Library Management System"
     ```
 
-## Compile and Run 
+## Compile and Run
+
 ```bash
 
     javac src/main/java/com/elevatelab/*.java
     java com.elevatelab.Main
 ```
+
 ## 📌 Future Improvements
 
     Search books by title or author
@@ -90,7 +93,7 @@ git clone https://github.com/ankitv26/Elevate-Internship.git
     Store data in a file or database
 
 ## 🔗 Author
+
     Ankit V
     📍 Intern @ Elevate Lab
-    🔗 GitHub Profile
-
+    🔗 GitHub Profile - https://github.com/ankitv26
